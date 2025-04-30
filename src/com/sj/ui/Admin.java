@@ -18,7 +18,7 @@ public class Admin {
             System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
             int choice = sc.nextInt();
-            sc.nextLine(); // consume leftover newline
+            sc.nextLine(); 
 
             switch (choice) {
                 case 1:
