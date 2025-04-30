@@ -16,7 +16,6 @@ public class Book implements Comparable<Book> {
         this.price = price;
     }
 
-    // Getters and Setters
     public int getId() {
         return id;
     }
